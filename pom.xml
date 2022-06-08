@@ -12,7 +12,16 @@
     <maven.compiler.target>1.7</maven.compiler.target>
      <java.version>17</java.version>
 </properties>
-
+<repository>
+  <id>test</id>
+  <url>https://pkgs.dev.azure.com/project213/Project1/_packaging/test/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
