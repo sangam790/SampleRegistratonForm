@@ -52,12 +52,12 @@ id="personaladdress" size="30"></td>
 <td>City</td>
 <td><select name="City">
 <option value="-1" selected>select..</option>
-<option value="New Delhi">NEW DELHI</option>
+<option value="Kolhapur">KOLHAPUR</option>
 <option value="Mumbai">MUMBAI</option>
-<option value="Ludhiana">LUDHIANA</option>
-<option value="Patna">PATNA</option>
-<option value="Patna">BANGALORE</option>
-<option value="Kolkata">KOLKATA</option>
+<option value="Pune">PUNE</option>
+<option value="Nashik">NASHIK</option>
+<option value="Indapur">INDAPUR</option>
+<option value="Navi Mumbai">NAVI MUMBAI</option>
 </select></td>
 </tr>
 
