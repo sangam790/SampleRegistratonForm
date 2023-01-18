@@ -1,7 +1,7 @@
 <html>
 <head>
 <script type="text/javascript" src="validate.js"></script>
-<title>Register now!</title>
+<title>Registration Form!</title>
 </head>
 <body>
 <style>
